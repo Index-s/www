@@ -1,6 +1,8 @@
 <?php
 
-$website_title = "Ridack's Webshop"
+$title = "Ridack's Webshop";
+$language = ["EN", "DE", "FR", "PL"];
 
+echo ($title);
 
 ?>
